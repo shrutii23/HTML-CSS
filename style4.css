@@ -1,0 +1,30 @@
+*{
+	margin: 0; padding: 0; box-sizing: border-box;
+	font-family: 'Alkatra', cursive;
+	font-family: 'Edu NSW ACT Foundation', cursive;
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Lora', serif;
+	font-family: 'Roboto Slab', serif;
+	font-family: 'Tillana', cursive;
+	background-image:url(pic4.jpg);
+}
+h1{
+	color:brown;
+	font-size:50px;
+	margin-left:20px;
+	margin-top:20px;
+}
+.photo{
+	margin-left:35%;
+	margin-right:40%;
+	margin-top:20px;
+	margin-bottom:25px;
+}
+.info{
+	margin-left:20px;
+	margin-right:10px;
+	color:maroon;
+	font-size: 33px;
+	font-size: 33px;
+	text-align:center;
+}
